@@ -31,6 +31,8 @@ A class can be defined as a blueprint from which objects are defined or created.
 - Modifiers: A class can either be public, private or protected.
 - Body: Consists of methods and data fields. The body is generally surrounded by curly brackets in languages like C++ and Java.  
 
+<br><br>
+
 There are four pillars of object oriented programming namely:
 
 - Abstraction
